@@ -22,9 +22,9 @@ Here's what we need to be able to do.
 
 **Car**
 
-  - Get a list of all cars
+  <!-- - Get a list of all cars -->
 
-  - Get a list of all car classifications
+  <!-- - Get a list of all car classifications -->
 
   - Get a list of mechanics that have an expertise that matches the car classification
 
